@@ -1,7 +1,7 @@
 # Web-Scraping
 Web Scraping and Triggering on ZARA ,HepsiEmlak
 
-### 2 FARKLI SITEDEN 2 FARKLI AMACLA 30SNDE TEKRAR EDEN WEB SCRAPING VE Fiyat degistiginde Terminale yazan (gelistirilebilir SMS) kod parcasi
+### 2 FARKLI SITEDEN 2 FARKLI AMACLA 30SNDE TEKRAR EDEN WEB SCRAPING VE FIYAT DEGISIKLIGINDE BILDIREN KOD PARCASI
 
 1-Bir Urun icin spesifik olarak fiyat veri cekimi 
 2-Ayni tip urun (ev) icin o sayfadaki tum fiyatlarrin cekimi
